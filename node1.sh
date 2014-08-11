@@ -1,0 +1,1 @@
+/usr/bin/python src/main.py 12345 ./node1_data Node1Hello

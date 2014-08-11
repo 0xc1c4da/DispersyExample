@@ -1,0 +1,1 @@
+/usr/bin/python src/main.py 12347 ./node3_data Node3Greetings

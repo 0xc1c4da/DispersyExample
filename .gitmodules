@@ -1,0 +1,3 @@
+[submodule "src/dispersy"]
+	path = src/dispersy
+	url = git@github.com:Tribler/dispersy.git
