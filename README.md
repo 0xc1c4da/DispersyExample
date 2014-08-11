@@ -12,6 +12,9 @@ I hope you enjoy this project and learning this fine message dissemination frame
 
 ### Quickstart
 
+git clone --recursive git@github.com:jarradh/DispersyExample.git dispersy_example
+cd dispersy_example
+
 Open 3 Shells and run in each;
 
 ./node1.sh  
